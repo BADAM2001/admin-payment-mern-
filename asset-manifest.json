@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/admin-payment-mern-/static/css/main.9a1dd2b8.css",
+    "main.js": "/admin-payment-mern-/static/js/main.894dc469.js",
+    "static/media/make-money-bg.png": "/admin-payment-mern-/static/media/make-money-bg.898b404bf737cd0a8ab5.png",
+    "index.html": "/admin-payment-mern-/index.html",
+    "main.9a1dd2b8.css.map": "/admin-payment-mern-/static/css/main.9a1dd2b8.css.map",
+    "main.894dc469.js.map": "/admin-payment-mern-/static/js/main.894dc469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a1dd2b8.css",
+    "static/js/main.894dc469.js"
+  ]
+}
